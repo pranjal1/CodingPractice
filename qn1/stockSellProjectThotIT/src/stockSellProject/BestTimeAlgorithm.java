@@ -7,7 +7,7 @@ public class BestTimeAlgorithm {
 		
 		int buyIdx = 0;
 		int sellIdx = 0;
-		double bestProfit = 0;
+		double bestProfit = 0; 
 		
 	
 		for (int counter = 0; counter < allStockData.size(); counter++) { 		      
